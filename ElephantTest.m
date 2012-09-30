@@ -8,6 +8,7 @@
 
 #import "ElephantTest.h"
 #import "NSObject+Elephant.h"
+#import "DebugHelpers.h"
 
 @implementation ElephantTest
 
